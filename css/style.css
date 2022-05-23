@@ -1,0 +1,200 @@
+.city{
+  height: 700px;
+  width: 100%;
+  background-image: url("D:/Documents/web development/first/images/city.png");
+  margin: 0px;
+}
+#bbb{
+  font-family: 'Koulen', cursive;
+ font-size: 5rem;
+position: absolute;
+top: 1000px;
+left: 400px;
+}
+.self{
+  width: 20%;
+  margin-bottom: 10px;
+ }
+ .se{
+   text-align: center;
+ }
+.yt1{
+  width: 20px;
+  height:auto;
+  padding-top: 350px;
+  position: relative;
+  left: 210px;
+  }
+.yt2{
+    width: 20px;
+    height:auto;
+    position: relative;
+    left: 600px;
+    bottom: 175px;
+    }
+    .yt3{
+      width: 20px;
+      height:auto;
+      position: relative;
+      left: 1000px;
+      bottom: 345px;
+      right: 10px;
+      }
+.www{
+  color: #FFFFFF;
+  font-family: 'Koulen', cursive;
+ text-align: center;
+ font-size: 7rem;
+ padding-top: 100px;
+ text-shadow: 1px 1px black;
+}
+.a{
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+  text-shadow: 1px 1px black;
+  padding-top: 10px;
+}
+.sc{
+width:60px;
+margin-left: 45px;
+}
+.navbar{
+  background-color: #2C3333;
+  color: #fff;
+  position: fixed;
+}
+.navb{
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+  position:absolute;
+  right: 150px;
+  padding-bottom: 20px;
+  ri
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.aaa{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  text-decoration: none;
+  color: #fff;
+  float:right;
+  margin-left: 20px;
+}
+.mumbai{
+  width:30%;
+  float: left;
+  margin-right: 30px;
+}
+.pune{
+  width:30%;
+ float: right;
+margin-right: 30px;
+}
+.nagpur{
+  width:30%;
+  float: left;
+  margin-right: 30px;
+}
+.head{
+  font-size: 2.5rem;
+}
+.pc{
+  margin: 200px;
+  text-align: left;
+  line-height: 2;
+}
+.card-text{
+    font-family: 'Montserrat', sans-serif;
+}
+.card {
+  position: absolute;
+  left: 5px;
+}
+.hole{
+  margin: auto;
+
+}
+.second{
+  width: 15%;
+  border-radius: 100px;
+}
+.sec{
+  float: left;
+}
+.row{
+  background-color: #0AA1DD;
+  margin:50px 0;
+  padding: 100px 0;
+  width: 1530px;
+  text-align: center;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  text-align: center;
+  padding-bottom: 40px;
+  text-decoration: underline;
+  font-family: 'Roboto', sans-serif;
+}
+.last{
+  text-align: center;
+  margin: 100px 50px 50px 50px;
+  text-decoration: underline;
+}
+.lasted{
+  width: 100%;
+}
+
+.zzz{
+  padding-bottom: 20px;
+}
+.btns {
+  /* background: #ffffff; */
+  background-image: -webkit-linear-gradient(top, #570A57, #A91079);
+  background-image: -moz-linear-gradient(top, #570A57, #A91079);
+  background-image: -ms-linear-gradient(top, #570A57, #A91079);
+  background-image: -o-linear-gradient(top, #570A57, #A91079);
+  background-image: linear-gradient(to bottom, #570A57, #A91079);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: white;
+  color: #fff;
+  font-size: 20px;
+  padding: 13px 40px 13px 40px;
+  /* text-decoration: none; */
+position: absolute;
+left: 680px;
+}
+
+.btns:hover {
+  background: #505152;
+  color: #fff;
+  background-image: -webkit-linear-gradient(top, #A91079, #570A57);
+  background-image: -moz-linear-gradient(top, #A91079, #570A57);
+  background-image: -ms-linear-gradient(top, #A91079, #570A57);
+  background-image: -o-linear-gradient(top, #A91079, #570A57);
+  background-image: linear-gradient(to bottom, #A91079, #570A57);
+  /* text-decoration: none; */
+}
+
+.container {
+position: relative;
+right: 100px;
+}
+
+#copyright {
+  padding-top: 10px;
+  font-family: inherit;
+  color: white;
+  font-weight: bold;
+}
